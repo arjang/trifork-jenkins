@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: vagrant
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_79
+Extension-Name: mesos-jenkins
+Implementation-Title: mesos-jenkins
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: com.trifork.mesos
+Short-Name: mesos-jenkins
+Long-Name: mesos-jenkins
+Url: http://jenkins-ci.org/plugin/mesos-jenkins/
+Plugin-Version: 1.0-SNAPSHOT (private-06/21/2015 20:27-vagrant)
+Hudson-Version: 1.565.3
+Jenkins-Version: 1.565.3
+Plugin-Developers: 
+

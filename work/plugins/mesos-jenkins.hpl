@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Group-Id: com.trifork.mesos
+Short-Name: mesos-jenkins
+Long-Name: mesos-jenkins
+Url: http://jenkins-ci.org/plugin/mesos-jenkins/
+Plugin-Version: 1.0-SNAPSHOT (private-06/21/2015 22:04-vagrant)
+Hudson-Version: 1.565.3
+Jenkins-Version: 1.565.3
+Plugin-Developers: 
+Libraries: /home/vagrant/master/triforkJenkins/target/classes,/home/va
+ grant/.m2/repository/org/apache/mesos/mesos/0.22.1/mesos-0.22.1.jar,/
+ home/vagrant/.m2/repository/com/google/protobuf/protobuf-java/2.5.0/p
+ rotobuf-java-2.5.0.jar
+Resource-Path: /home/vagrant/master/triforkJenkins/src/main/webapp
+
